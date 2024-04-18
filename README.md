@@ -95,7 +95,7 @@ Using Sangvish's [Amazon clone software](https://sangvish.com/amazon-clone/), yo
 
 Are you ready to start your eCommerce business journey? Explore the benefits of Sangvish's Amazon Clone Script and take the first step toward establishing your online business! 
 
-Click here for a live demo of our Amazon clone - visit our site now! - https://sangvish.com/amazon-clone/
+Click here for a live demo of our Amazon clone - visit our site now! - https://sangvish.com/amazon-clone/#demo
 
 
 **Contact Us,**
