@@ -1,7 +1,7 @@
 ![amazon-clone-app](https://github.com/sangvishtechnologies/amazon-clone/assets/161323540/3379a5a6-d630-4907-bfbe-e8c99267e4c2)
 
 
-<h1 align="center">Amazon Clone - Your All-in-One White-Label eCommerce Solution</h1>
+<h1 align="center">Amazon Clone – Your All-in-One White-Label eCommerce Solution with New Features and Updates </h1>
 
 
 The eCommerce industry is booming, and entrepreneurs are continuously looking for unique ways to enter this ever-growing eCommerce market. However, creating an eCommerce platform like Amazon from scratch can be a challenging task. This is where[ Amazon Clone](https://sangvish.com/amazon-clone/) comes in – a robust online solution for launching your own feature-rich Multi vendor eCommerce marketplace instantly and efficiently.
@@ -39,6 +39,37 @@ let the buyers to share products on social media platforms and simple social log
 * **Admin Panel:** 
 
 Provide admin complete control over the platform, including user management, product management, order management, reporting, and analytics.
+## New Features and Updates in Sangvish Amazon Clone Script
+### 1. WordPress Integration to Help Achieve the Highest Level of Flexibility
+With the new updates on our [Amazon Clone Script,](https://www.sangvish.com/amazon-clone/) one of the most powerful and versatile content management system- WordPress is now supported. This integration offers you the following advantages:
+
+* **Customization:** It’s rather simple to modify your marketplace because there is a wide choice of WP themes and plugins.
+* **Intuitive Dashboard:** Get a user-friendly navigation to help you manage your platform with ease.
+* **SEO Tools:** Increase your marketplace’s exposure and presence in search engines thanks to the SEO options available. 
+
+This integration means that your eCommerce platform is not merely strong but flexible for your specific business requirements.
+
+### 2. WooCommerce Support for Seamless E-Commerce Operations
+In order to improve your marketplace’s capabilities, we have included WooCommerce, which is a robust e-commerce plugin. With WooCommerce, you can:
+* **Manage Products, Inventory, and Orders:** Make your back-end operations efficient through a well-designed user interface.
+* **Multiple Payment Gateways:** Make it easy for your customers to pay for your products in many ways so you can be sure that your customers will go through with the buying process easily.
+* **Advanced Shipping Options:** Adjust delivery solutions according to your platform’s demands. This again makes WooCommerce perfect for integrating into the creation of a well-rounded and efficient e-commerce marketplace.
+
+### 3. WCFM Marketplace Plugin for Multi-Vendor Functionality
+To build a bustling multi-seller environment that encompasses products from multiple categories, we have implemented the WCFM Marketplace Plugin. This tool enables:
+* **Vendor Management:** It can also be used to track products, orders, and payouts of the vendors which make it easier for them to handle their businesses.
+* **Commission System:** This is one of the most effective ways of monetizing your platform depending on the number of clients that patronize the platform.
+* **Advanced Analytics:** Ensure that you offer your vendors daily reports to assist them in monitoring their sales and the company’s performance. 
+
+By using WCFM, the functionality of your marketplace will be similar to Amazon, and both you and your sellers will have the tools to be successful at the exact same marketplace.
+### 4. Elementor for Advanced Page Building
+Building a user friendly web pages is simpler than ever with the Elementor, an innovative drag and drop page builder, which comes with the following benefits:
+* **Real-Time Customization:** Adore a live preview of changes as you make them, streamlining the design process.
+* **Widgets and Templates:** Choose from a wide variety of pre-built widgets and templates to create professional-grade pages.
+* **Mobile-Responsive Designs:** Ensure your platform looks great on all devices with mobile-optimized designs. 
+
+Elementor eliminates the need for coding skills, empowering you to create stunning pages that attract and engage customers.
+
 ## Why Choose a White-Label Solution?
 A white-label solution lets the website owner completely brand the platform as their own. It means the entrepreneur has complete control over the website activities like customer experience, enhancing brand loyalty, and customer trust.
 ## Benefits of Using Amazon Clone Software
